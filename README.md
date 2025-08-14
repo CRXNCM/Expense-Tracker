@@ -243,7 +243,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@expensetracker.com or join our Slack channel.
+For support, email comradencm@gmail.com or call 0925254765.
+We are here to help you with any questions or issues you may have.
 
 ---
 
